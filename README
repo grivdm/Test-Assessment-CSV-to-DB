@@ -1,0 +1,5 @@
+Before running this script, please make sure that you have installed all the required packages
+and filled in the DB connection details in alembic.ini(sqlalchemy.url) and session.py(engine).
+
+To run this script, use: python main.py
+To run this script in interactive mode, use: python main.py --interactive
