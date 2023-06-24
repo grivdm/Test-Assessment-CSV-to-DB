@@ -4,4 +4,4 @@ and filled in the DB connection details in alembic.ini(sqlalchemy.url) and sessi
 To run this script, use: python main.py
 To run this script in interactive mode, use: python main.py --interactive
 
-#### I would be extremely grateful for any feedback or suggestions!
+I would be extremely grateful for any feedback or suggestions!
